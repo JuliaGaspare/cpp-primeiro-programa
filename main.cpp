@@ -1,5 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-  std::cout << "Hello World!\n";
+  cout << "Seja bem-vindo a ECO!\n";
+
+  return 0;
 }
